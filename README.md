@@ -1,2 +1,4 @@
-# Primieirorepositorio
- Este é o priemeiro repositorio versionado para teste de git e github
+# Primieiro repositório
+ Este é o priemeiro repositório versionado para teste de git e github
+
+Repositório criado durante a aula cursoemvideo ao vivo
